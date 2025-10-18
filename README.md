@@ -1,6 +1,5 @@
 # Excel Projects
-
-A collection of Excel projects showcasing data analysis and visualization to enhance productivity and decision-making.
+A collection of Excel projects showcasing data analysis and visualization to enhance productivity and decision-making
 
 ## Project 1: Developer's Salary Dashboard in Norway, 2024
 
