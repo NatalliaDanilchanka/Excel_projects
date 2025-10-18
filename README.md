@@ -1,4 +1,6 @@
 # Excel_projects
+A collection of Excel projects showcasing data analysis and visualization to enhance productivity and decision-making.
+
 ## Project_1: Developer's salary dashboard in Norway, 2024
 
 ![Untitled design](https://github.com/user-attachments/assets/f6b42e8b-6044-4f7e-9fc4-302ec95d73b5)
