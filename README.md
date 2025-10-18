@@ -6,6 +6,10 @@
 ### Description
 This salary dashboard was created to facilitate the exploration of various job opportunities across different regions of Norway, taking into account factors such as job title and years of experience.
 
+### Final project
+[Developer Salaries in Norway - Final Excel File](https://github.com/NatalliaDanilchanka/Excel_projects/blob/main/Project_1/Developer%20salaries%20in%20norway_final.xlsx)
+
+### References 
 [Code used in the project](https://www.kode24.no/artikkel/her-er-lonnstallene-for-norske-utviklere-2024/203888)
 
 [Inspired by the course: Excel for Data Analytics by Luke Barousse](https://www.youtube.com/watch?v=pCJ15nGFgVg)
